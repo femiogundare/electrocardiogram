@@ -26,7 +26,7 @@ ECGs of Atrial fibrillation, normal sinus rhythm, other rhythm and noise.
 
 
 <p align = "center">
-<img align="center" src="ecg_plots.png." alt="ECG Monitor"/>
+<img align="center" src="readme_images/display_ecgs.png" alt="ECG Plots"/>
 </p>
 
 
@@ -35,7 +35,7 @@ The model is built using Keras, utilizing TensorFlow as the backend.
 
 
 <p align = "center">
-<img align="center" src="readme_images/nn_architecture.png" alt="NN Architecture"/>
+<img align="center" src="readme_images/nn_architecture.PNG" alt="NN Architecture"/>
 </p>
 
 
@@ -52,4 +52,4 @@ The neural network returns the following scores:
 
 ## Future Updates
 1. Get more data and retrain the neural network.
-2. Increase the batch size to 32, 64 or 128. (The batch size of 2 used during training is too small and could be said to be responsible for this level of performance.)  
+2. Increase the batch size to 32, 64 or 128. (The batch size of 2 used during training is probably too small.)  
