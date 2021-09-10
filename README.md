@@ -40,7 +40,7 @@ The model was built using Keras, utilizing TensorFlow as the backend.
 
 
 ## Results
-The neural network returned the following resultss:
+On evaluation, the neural network returned the following results:
 
 | Class | Precision | Recall | Specificity | NPV | F1 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
