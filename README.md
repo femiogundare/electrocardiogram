@@ -31,7 +31,7 @@ ECGs of Atrial fibrillation, normal sinus rhythm, other rhythm and noise.
 
 
 ## Neural Network Architecture
-The model is built using Keras, utilizing TensorFlow as the backend.
+The model was built using Keras, utilizing TensorFlow as the backend.
 
 
 <p align = "center">
@@ -40,7 +40,7 @@ The model is built using Keras, utilizing TensorFlow as the backend.
 
 
 ## Results
-The neural network returns the following scores:
+The neural network returned the following resultss:
 
 | Class | Precision | Recall | Specificity | NPV | F1 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
